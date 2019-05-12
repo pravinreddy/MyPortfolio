@@ -1,2 +1,2 @@
 # MyPortfolio
-DEMO [https://github.com/pravinreddy/MyPortfolio]
+DEMO [https://pravinreddy.github.io/MyPortfolio/]
